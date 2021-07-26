@@ -70,5 +70,6 @@ namespace UserRegistration
             bool validate = rg.IsMatch(password);
             Console.WriteLine(validate);
         }
+
     }
 }
