@@ -21,6 +21,7 @@ namespace UserRegistration
                 Console.WriteLine("Name is Valid : " + first_name);
             else
                 Console.WriteLine("Invalid FirstName");
+            
         }
     }
 }
